@@ -69,5 +69,55 @@ a{
     margin: 0 auto;
     text-align: center;
     max-width: 1140px;
+.Adxam{
+    background: gray;
+}
+
+.Adxam__title{
+    padding: 50px 0;
+    color: white;
+    text-align: center;
+}
+
+.Adxam__text{
+.sarvar {
+    background-color: bisque;
+}
+
+.sarvar__inner {
+    padding: 50px 0 50px 40px;
+}
+
+.sarvar__inner>h1 {
+    font-size: 35px;
+    padding-bottom: 30px;
+    text-decoration: underline;
+    color: rgb(50, 103, 105);
+}
+
+.sarvar__inner>p {
+    padding-bottom: 20px;
+    font-size: 16px;
+    
+.islom{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.islom__inner{
+   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.futbol{
+    font-weight: 700;
+    color: white;
+    font-style: 30px;
+}
+.section__text{
+    padding: 10px 10px;
+    font-weight: 400;
+    font-size: 15px;
     color: white;
 }
