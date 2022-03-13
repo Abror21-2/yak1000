@@ -73,4 +73,25 @@ a{
     padding-bottom: 20px;
     font-size: 16px;
     
+.islom{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.islom__inner{
+   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.futbol{
+    font-weight: 700;
+    color: white;
+    font-style: 30px;
+}
+.section__text{
+    padding: 10px 10px;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
 }
