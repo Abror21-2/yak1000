@@ -69,6 +69,7 @@ a{
     margin: 0 auto;
     text-align: center;
     max-width: 1140px;
+}
 .Adxam{
     background: gray;
 }
@@ -79,7 +80,6 @@ a{
     text-align: center;
 }
 
-.Adxam__text{
 .sarvar {
     background-color: bisque;
 }
@@ -98,14 +98,13 @@ a{
 .sarvar__inner>p {
     padding-bottom: 20px;
     font-size: 16px;
-    
+}
 .islom{
     background-color: black;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 .islom__inner{
-   
     display: flex;
     align-items: center;
     flex-direction: column;
