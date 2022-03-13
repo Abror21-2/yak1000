@@ -54,6 +54,17 @@ a{
     color: white;
 }
 
+.Adxam{
+    background: gray;
+}
+
+.Adxam__title{
+    padding: 50px 0;
+    color: white;
+    text-align: center;
+}
+
+.Adxam__text{
 .sarvar {
     background-color: bisque;
 }
