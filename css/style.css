@@ -54,6 +54,21 @@ a{
     color: white;
 }
 
+.title{
+    text-align: center;
+    color: blueviolet;
+    margin-bottom: 30px;    
+}
+
+.dilshod{
+    background-color: black;
+    padding: 30px;
+}
+
+.dilshod-inner{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1140px;
 .Adxam{
     background: gray;
 }
